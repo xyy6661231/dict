@@ -1,6 +1,7 @@
 dev
 test
 pro
+pre
 prod
 uat
 admin
